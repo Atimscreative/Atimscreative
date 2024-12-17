@@ -1,8 +1,6 @@
 # 👋 Hi there!
 I’m Timilehin Abegunde — a Frontend Engineer 🚀, Django Newbie 🐣, and WordPress Website Designer .
 <br/>
-🤝 I’m looking for help with:
-Optimizing my backend skills with Django.
 
 🌱 I’m currently learning:
 Python/Django and building real-world projects.
