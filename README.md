@@ -1,6 +1,4 @@
 # 👋 Hello there!
-
-# 💫 About Me:
 Hi, I'm Atims<br>Frontend Engineer | WordPress Designer | React Native & Node.js Beginner<br><br>🔭 Currently working on:<br>RBAC dashboards, React UIs, and client sites with WordPress<br><br>👯 Open to collaborating on:<br>Frontend projects, WordPress builds, fullstack apps<br><br>🤝 Need help with:<br>Structuring Express apps and React Native patterns<br><br>🌱 Learning:<br>Node.js, Express, React Native, API security<br><br>💬 Ask me about:<br>React, Next.js, Tailwind CSS, WordPress, Express<br><br>⚡ Fun fact:<br>I shifted from Agricultural Economics to tech — best pivot ever!
 
 
